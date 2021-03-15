@@ -1,2 +1,3 @@
 # kjsfld.github.io
-Building GitHub Pages site
+
+* [About me](https://kjsfld.github.io/kjsfld/)
